@@ -1,3 +1,6 @@
+https://github.com/user-attachments/assets/0f98cd9f-d470-478b-bd83-bad1eccfde83
+
+
 Vamos a hacer algo súper chulo: un cromo animado en 3D que gira mientras haces scroll. ¿Lo mejor? No necesitamos ni una sola línea de `JavaScript`. Vamos a hacerlo todo con `HTML` y `CSS`. Te prometo que es más fácil de lo que parece, ¡así que vamos allá!
 
 ## Paso 1: La Estructura básica en `HTML`
